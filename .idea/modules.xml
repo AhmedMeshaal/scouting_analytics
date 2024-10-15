@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ScoutAnalytics.iml" filepath="$PROJECT_DIR$/.idea/ScoutAnalytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scouting_analytics.iml" filepath="$PROJECT_DIR$/.idea/scouting_analytics.iml" />
     </modules>
   </component>
 </project>
