@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9781698e-f906-494e-9f14-8476f3dcbd2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/actions/login.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ScoutAnalytics.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/auth/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/auth/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/auth/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/auth/login/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/Social.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/Social.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/back-button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/back-button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/card-wrapper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/card-wrapper.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/login-button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/login-button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/login-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/login-form.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/form-success.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/form-success.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actions/register.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/auth/register/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/auth/register-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/schemas/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/websites/scouting_analytics/components",
+    "last_opened_file_path": "C:/websites/scouting_analytics/actions",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,6 +47,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\websites\scouting_analytics\actions" />
+      <recent name="C:\websites\scouting_analytics\components\auth" />
+      <recent name="C:\websites\scouting_analytics\app\auth" />
       <recent name="C:\websites\scouting_analytics\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -87,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728826769335</updated>
-      <workItem from="1728826771507" duration="29618000" />
+      <workItem from="1728826771507" duration="31781000" />
     </task>
     <servers />
   </component>
