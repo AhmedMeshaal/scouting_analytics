@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9781698e-f906-494e-9f14-8476f3dcbd2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/actions/reset.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/reset/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/auth/reset-form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/password-reset-token.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actions/new-password.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/auth/new-password/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/auth/new-password-form.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/login-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/login-form.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mail.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mail.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/tokens.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/tokens.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/password-reset-token.ts" beforeDir="false" afterPath="$PROJECT_DIR$/data/password-reset-token.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routes.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/schemas/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/index.ts" afterDir="false" />
     </list>
@@ -48,7 +44,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/websites/scouting_analytics&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/websites/scouting_analytics/components/auth&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,8 +57,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\websites\scouting_analytics\actions" />
       <recent name="C:\websites\scouting_analytics\components\auth" />
+      <recent name="C:\websites\scouting_analytics\actions" />
       <recent name="C:\websites\scouting_analytics\app\auth" />
       <recent name="C:\websites\scouting_analytics\components" />
     </key>
@@ -100,7 +96,8 @@
       <workItem from="1729760730748" duration="1879000" />
       <workItem from="1730019955208" duration="13616000" />
       <workItem from="1730100394166" duration="11308000" />
-      <workItem from="1730119223074" duration="1342000" />
+      <workItem from="1730119223074" duration="6452000" />
+      <workItem from="1730125878826" duration="1751000" />
     </task>
     <servers />
   </component>
