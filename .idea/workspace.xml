@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9781698e-f906-494e-9f14-8476f3dcbd2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/actions/new-password.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/auth/new-password/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/auth/new-password-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/two-factor-confirmation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/two-factor-token.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/password-reset-token.ts" beforeDir="false" afterPath="$PROJECT_DIR$/data/password-reset-token.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actions/login.ts" beforeDir="false" afterPath="$PROJECT_DIR$/actions/login.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/auth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/auth/login-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/login-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mail.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mail.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tokens.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/tokens.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/schemas/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/schemas/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +53,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\websites\\scouting_analytics\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -97,7 +100,12 @@
       <workItem from="1730019955208" duration="13616000" />
       <workItem from="1730100394166" duration="11308000" />
       <workItem from="1730119223074" duration="6452000" />
-      <workItem from="1730125878826" duration="1751000" />
+      <workItem from="1730125878826" duration="1971000" />
+      <workItem from="1730177011569" duration="1915000" />
+      <workItem from="1730179766113" duration="5172000" />
+      <workItem from="1730185254714" duration="311000" />
+      <workItem from="1730185584311" duration="352000" />
+      <workItem from="1730185947474" duration="5407000" />
     </task>
     <servers />
   </component>
