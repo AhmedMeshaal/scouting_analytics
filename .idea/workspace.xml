@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9781698e-f906-494e-9f14-8476f3dcbd2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/ui/avatar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/dropdown-menu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actions/admin.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(protected)/admin/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(protected)/client/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(protected)/server/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/admin/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/auth/role-gate.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/user-info.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/use-current-role.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/auth.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/actions/logout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/actions/logout.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(protected)/_components/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(protected)/_components/navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(protected)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(protected)/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(protected)/settings/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(protected)/settings/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/logout-button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/logout-button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/user-button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/user-button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/use-current-user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/use-current-user.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/tokens.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/tokens.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/auth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next-auth.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next-auth.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -38,6 +39,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -47,23 +53,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/websites/scouting_analytics/components/auth&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\websites\\scouting_analytics\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/websites/scouting_analytics/app/(protected)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\websites\\scouting_analytics\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\websites\scouting_analytics\app\(protected)" />
       <recent name="C:\websites\scouting_analytics\components\auth" />
       <recent name="C:\websites\scouting_analytics\actions" />
       <recent name="C:\websites\scouting_analytics\app\auth" />
@@ -111,6 +118,7 @@
       <workItem from="1730185584311" duration="352000" />
       <workItem from="1730185947474" duration="15698000" />
       <workItem from="1730279463395" duration="7667000" />
+      <workItem from="1730354791202" duration="9288000" />
     </task>
     <servers />
   </component>
