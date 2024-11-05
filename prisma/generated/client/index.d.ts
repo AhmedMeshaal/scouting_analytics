@@ -50,7 +50,8 @@ export type TwoFactorConfirmation = $Result.DefaultSelection<Prisma.$TwoFactorCo
 export namespace $Enums {
   export const UserRole: {
   ADMIN: 'ADMIN',
-  USER: 'USER'
+  USER: 'USER',
+  EXTERNAL: 'EXTERNAL'
 };
 
 export type UserRole = (typeof UserRole)[keyof typeof UserRole]
