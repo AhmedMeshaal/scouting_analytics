@@ -174,6 +174,11 @@ exports.Prisma.TwoFactorConfirmationScalarFieldEnum = {
   userId: 'userId'
 };
 
+exports.Prisma.TeamsScalarFieldEnum = {
+  id: 'id',
+  name: 'name'
+};
+
 exports.Prisma.SortOrder = {
   asc: 'asc',
   desc: 'desc'
@@ -200,7 +205,8 @@ exports.Prisma.ModelName = {
   verificationToken: 'verificationToken',
   passwordResetToken: 'passwordResetToken',
   twoFactorToken: 'twoFactorToken',
-  TwoFactorConfirmation: 'TwoFactorConfirmation'
+  TwoFactorConfirmation: 'TwoFactorConfirmation',
+  Teams: 'Teams'
 };
 
 /**

@@ -85,3 +85,8 @@ model TwoFactorConfirmation {
 
   @@unique([userId])
 }
+
+model Teams {
+  id String @id @default(cuid())
+  name String
+}
