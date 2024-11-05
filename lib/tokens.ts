@@ -5,7 +5,7 @@ import crypto from "crypto";
 import { getVerificationTokenByEmail } from "@/data/verification-token";
 import { getPasswordResetTokenByEmail } from "@/data/password-reset-token";
 import { getTwoFactorTokenByEmail } from "@/data/two-factor-token";
-import {execOnce} from "next/dist/shared/lib/utils";
+// import {execOnce} from "next/dist/shared/lib/utils";
 
 export const generateVerificationToken = async (email: string) => {
     const token = uuidv4();
