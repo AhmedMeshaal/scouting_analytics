@@ -2,7 +2,7 @@
   "extends": ["next/core-web-vitals", "next/typescript"],
   "rules": {
     "rules": {
-      "no-var": 0
+      "no-var": "off"
     }
   }
 }
