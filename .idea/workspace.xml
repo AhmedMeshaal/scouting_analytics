@@ -5,7 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9781698e-f906-494e-9f14-8476f3dcbd2f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/prisma/schema.prisma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/default.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/edge.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/edge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/index-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/query_engine-windows.dll.node" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/runtime/edge-esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/runtime/edge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/runtime/index-browser.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/runtime/index-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/runtime/library.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/runtime/library.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/runtime/react-native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/runtime/wasm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/schema.prisma" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/wasm.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prisma/generated/client/wasm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(protected)/settings/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(protected)/settings/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/db.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/db.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,21 +63,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/websites/scouting_analytics&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\websites\\scouting_analytics\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "last_opened_file_path": "C:/websites/scouting_analytics",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\websites\\scouting_analytics\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\websites\scouting_analytics\app\(protected)" />
@@ -106,7 +130,7 @@
       <workItem from="1730279463395" duration="7667000" />
       <workItem from="1730354791202" duration="12291000" />
       <workItem from="1730703230634" duration="19405000" />
-      <workItem from="1730792226353" duration="4597000" />
+      <workItem from="1730792226353" duration="6522000" />
     </task>
     <servers />
   </component>
