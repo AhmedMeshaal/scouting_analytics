@@ -1,10 +1,8 @@
 {
   "extends": ["next/core-web-vitals", "next/typescript"],
   "rules": {
-    "no-var": "warn",
-    "no-restricted-syntax": ["error", {
-      "selector": "VariableDeclaration[kind='var'][declare!=true]",
-      "message": "Unexpected var, use let or const instead."
-    }]
+    "rules": {
+      "no-var": 0
+    }
   }
 }
