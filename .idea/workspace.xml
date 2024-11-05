@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9781698e-f906-494e-9f14-8476f3dcbd2f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/actions/login.ts" beforeDir="false" afterPath="$PROJECT_DIR$/actions/login.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/login-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/login-form.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mail.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mail.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware.ts" beforeDir="false" afterPath="$PROJECT_DIR$/middleware.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(protected)/admin/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(protected)/admin/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(protected)/server/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(protected)/server/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(protected)/settings/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(protected)/settings/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,7 @@
       <workItem from="1730279463395" duration="7667000" />
       <workItem from="1730354791202" duration="12291000" />
       <workItem from="1730703230634" duration="19405000" />
-      <workItem from="1730792226353" duration="3333000" />
+      <workItem from="1730792226353" duration="3828000" />
     </task>
     <servers />
   </component>

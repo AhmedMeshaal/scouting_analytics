@@ -5,8 +5,6 @@ import {RoleGate} from "@/components/auth/role-gate";
 import {FormSuccess} from "@/components/form-success";
 import {UserRole} from "@prisma/client";
 import {Button} from "@/components/ui/button";
-import {Simulate} from "react-dom/test-utils";
-import error = Simulate.error;
 import {toast} from "sonner";
 import {admin} from "@/actions/admin";
 
