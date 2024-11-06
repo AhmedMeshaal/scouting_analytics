@@ -60,6 +60,7 @@ export const NewPasswordForm = () => {
             headerLabel="Enter new password"
             backButtonLabel="Back to login"
             backButtonHref="/auth/login"
+            showSocial
         >
             <Form {...form}>
                 <form

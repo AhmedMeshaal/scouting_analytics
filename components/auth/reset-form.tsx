@@ -56,6 +56,7 @@ export const ResetForm = () => {
             headerLabel="Forget your password"
             backButtonLabel="Back to login"
             backButtonHref="/auth/login"
+            showSocial
         >
             <Form {...form}>
                 <form
