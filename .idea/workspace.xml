@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9781698e-f906-494e-9f14-8476f3dcbd2f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/error-card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/error-card.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/new-password-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/new-password-form.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/new-verification-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/new-verification-form.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/auth/reset-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/auth/reset-form.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/form-error.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/form-error.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/form-success.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/form-success.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/data/user.ts" afterDir="false" />
-    </list>
+    <list default="true" id="9781698e-f906-494e-9f14-8476f3dcbd2f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,6 +108,7 @@
       <workItem from="1730878872267" duration="628000" />
       <workItem from="1730879601894" duration="1325000" />
       <workItem from="1730881059098" duration="289000" />
+      <workItem from="1730881710084" duration="346000" />
     </task>
     <servers />
   </component>
